@@ -101,7 +101,6 @@ public class Register extends JFrame  {
 				pojo.setId(id);
 				Operation operation=new Operation();
 				operation.ShowData(pojo);
-//				ta1.setText(pojo.getName()+" | "+ pojo.getId()+" | "+  pojo.getContact());
 
 			}
 		});
